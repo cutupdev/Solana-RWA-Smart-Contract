@@ -195,7 +195,7 @@ Sets the status of an asset (Active, Frozen, Liquidated, Redeemed).
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/cutupdev/Solana-RWA-Smart-Contract.git
 cd Solana-RWA-Smart-Contract
 ```
 
